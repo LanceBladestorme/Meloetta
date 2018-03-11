@@ -21,7 +21,7 @@
     "node-opus": "^0.2.7",
     "oakdex-pokedex": "^0.1.4",
     "pokedex-promise-v2": "^3.1.1",
-    "snekfetch": "^4.0.0-beta.0",
+    "snekfetch": "^3.5.8",
     "ytdl-core": "^0.20.2"
   }
 }
