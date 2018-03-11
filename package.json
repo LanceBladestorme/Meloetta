@@ -1,0 +1,27 @@
+{
+  "name": "meloetta",
+  "version": "1.0.0",
+  "engine": {
+    "node": "8.10.0"
+  },
+  "description": "Official Bot of the Pie Legion! Meloetta was created by Clover using Komada.js!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clover",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "fast-html-parser": "^1.0.1",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "install": "^0.10.4",
+    "komada": "^0.21.1",
+    "ms": "^2.1.1",
+    "node-opus": "^0.2.7",
+    "oakdex-pokedex": "^0.1.4",
+    "pokedex-promise-v2": "^3.1.1",
+    "snekfetch": "^4.0.0-beta.0",
+    "ytdl-core": "^0.20.2"
+  }
+}
